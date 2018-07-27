@@ -1,0 +1,14 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Clement Carretier",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
